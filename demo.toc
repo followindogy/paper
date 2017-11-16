@@ -24,12 +24,22 @@
 \contentsline {section}{\numberline {2.2}一般代码优化}{15}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}变量优化}{15}{subsection.2.2.1}
 \contentsline {subsection}{\numberline {2.2.2}循环优化}{16}{subsection.2.2.2}
-\contentsline {chapter}{\numberline {第3章\hspace {.3em}}基于优化CPU和GPU内存交互的设计和实现}{17}{chapter.3}
-\contentsline {chapter}{结论}{18}{chapter*.13}
-\contentsline {chapter}{参考文献}{19}{chapter*.14}
-\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}***}{20}{appendix.A}
-\contentsline {chapter}{\numberline {附录 B\hspace {.3em}}Maxwell Equations}{21}{appendix.B}
-\contentsline {chapter}{攻读学位期间发表论文与研究成果清单}{22}{appendix*.15}
-\contentsline {chapter}{致谢}{23}{appendix*.16}
-\contentsline {chapter}{作者简介}{24}{appendix*.17}
+\contentsline {section}{\numberline {2.3}控制流分析和循环查找}{16}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}基本块和控制流图}{17}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}控制流分析}{18}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}数据流分析}{19}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}程序中的点和通路}{19}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}到达-定值数据流方程}{20}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}引用-定值链}{20}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}定值-引用链}{20}{subsection.2.4.4}
+\contentsline {chapter}{\numberline {第3章\hspace {.3em}}基于优化CPU和GPU内存交互的设计和实现}{21}{chapter.3}
+\contentsline {section}{\numberline {3.1}迁移数据交换操作}{21}{section.3.1}
+\contentsline {section}{\numberline {3.2}迁移限制}{22}{section.3.2}
+\contentsline {chapter}{结论}{23}{chapter*.15}
+\contentsline {chapter}{参考文献}{24}{chapter*.16}
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}***}{25}{appendix.A}
+\contentsline {chapter}{\numberline {附录 B\hspace {.3em}}Maxwell Equations}{26}{appendix.B}
+\contentsline {chapter}{攻读学位期间发表论文与研究成果清单}{27}{appendix*.17}
+\contentsline {chapter}{致谢}{28}{appendix*.18}
+\contentsline {chapter}{作者简介}{29}{appendix*.19}
 \contentsfinish 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2017.11.14)  14 NOV 2017 17:51
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2017.11.3)  16 NOV 2017 11:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2830,19 +2830,24 @@ File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 ) [11] [12]
 File: figure6.eps Graphic file (type eps)
 
-<figure6.eps> [13] [14] [15]) [16]
+<figure6.eps> [13] [14] [15] [16]
+File: figure7.eps Graphic file (type eps)
+ <figure7.eps>
+File: figure8.eps Graphic file (type eps)
+ <figure8.eps> [17] [18]
+[19]) [20]
 \openout2 = `chapters/chapter3.aux'.
 
  (./chapters/chapter3.tex
 第3章
-) [17
+[21
 
 
 
-]
+]) [22]
 \openout2 = `chapters/conclusion.aux'.
 
- (./chapters/conclusion.tex) [18
+ (./chapters/conclusion.tex) [23
 
 
 
@@ -2850,7 +2855,7 @@ File: figure6.eps Graphic file (type eps)
 
 LaTeX Warning: Empty `thebibliography' environment on input line 4.
 
-) [19
+) [24
 
 
 ]
@@ -2858,7 +2863,7 @@ LaTeX Warning: Empty `thebibliography' environment on input line 4.
 
  (./chapters/app1.tex
 附录 A
-) [20
+) [25
 
 
 ]
@@ -2866,7 +2871,7 @@ LaTeX Warning: Empty `thebibliography' environment on input line 4.
 
  (./chapters/app2.tex
 附录 B
-) [21
+) [26
 
 
 
@@ -2878,7 +2883,7 @@ LaTeX Warning: Empty `thebibliography' environment on input line 4.
 LaTeX Font Warning: Font shape `TU/SimSun(0)/m/sc' undefined
 (Font)              using `TU/SimSun(0)/m/n' instead on input line 10.
 
-) [22
+) [27
 
 
 
@@ -2886,14 +2891,14 @@ LaTeX Font Warning: Font shape `TU/SimSun(0)/m/sc' undefined
 ]
 \openout2 = `chapters/thanks.aux'.
 
- (./chapters/thanks.tex) [23
+ (./chapters/thanks.tex) [28
 
 
 
 ]
 \openout2 = `chapters/resume.aux'.
 
- (./chapters/resume.tex) [24
+ (./chapters/resume.tex) [29
 
 
 
@@ -2917,12 +2922,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 45483 strings out of 493005
- 915170 string characters out of 6137955
- 1046488 words of memory out of 5000000
- 48688 multiletter control sequences out of 15000+600000
+ 45502 strings out of 493005
+ 915362 string characters out of 6137956
+ 1046616 words of memory out of 5000000
+ 48705 multiletter control sequences out of 15000+600000
  545829 words of font info for 143 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  63i,11n,70p,10416b,863s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on demo.pdf (33 pages).
+Output written on demo.pdf (38 pages).
